@@ -1,6 +1,0 @@
--Einleitung ins Thema
-	-Problem vorstellen
-	-Daten vorstellen
-
--Geplantes Vorgehen
-	-Welche Algorithmen?
